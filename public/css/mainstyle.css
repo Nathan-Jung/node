@@ -1,0 +1,76 @@
+@meia(max-width:800px){
+  
+}
+a{
+  text-decoration:none;
+}
+header ul{
+  margin:0;
+}
+.uppermenu{
+  text-align:right;
+  font-size:small;
+  font-family:NanumGothic, sans-serif;
+  background-color:rgb(77, 108, 139);
+  color:white;
+}
+.Login, .Sign-Up{
+  padding-right:15px;
+  height:20px;
+  width:50px;
+  color:white;
+}
+nav ul{
+  text-align:center;
+  position:relative;
+  padding:20px;
+  margin:0;
+  background-color:rgb(77, 108, 139);
+}
+ul li{
+  display:inline;
+}
+ol{
+  border-right:1px solid gray;
+  width:200px;
+  padding:10px;
+}
+p.title{
+  text-align:center;
+  font-size:2em;
+  font-family:NanumGothic, sans-serif;
+  border-bottom:0px solid gray;
+  margin : 0;
+  padding-top: 60px;
+  background-color:rgb(77, 108, 139);
+}
+p.subtitle{
+  text-align:center;
+  font-family:arial,"Time New Roman", serif;
+  font-size:15px;
+  color:#A9A9F5;
+  margin:0;
+  padding-bottom:10px;
+  background-color:rgb(77, 108, 139);
+}
+.hentry{
+border:1px solid gray;
+padding-top:40px;
+padding-bottom:40px;
+padding-left:35px;
+padding-right:35px;
+margin-left:70px;
+margin-right:70px;
+}
+.food, .oxyzen{
+  border-right:1px solid gray;
+  padding-right:10px;
+}
+.entry-title{
+  text-align:center;
+}
+.id, .password{
+  width:0;
+  margin:0 auto;
+  padding:0;
+}
